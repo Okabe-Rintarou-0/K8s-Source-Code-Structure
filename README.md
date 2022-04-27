@@ -6,3 +6,5 @@ They are aimed to help better understand the source code of K8s.
 ## Example
 
 ![](graphs/kubelet/kubelet.svg)
+
+![](graphs/kubelet/probeManager&statusManager.svg)
